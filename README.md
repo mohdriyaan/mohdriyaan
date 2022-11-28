@@ -1,4 +1,3 @@
-[![Social banner for riyaan](https://github.com/riyaan/riyaan/raw/master/assets/header-banner--optimized.svg)]
 <h1 align="center">Hi 👋, I'm Mohammed Riyaan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
