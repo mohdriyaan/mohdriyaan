@@ -7,10 +7,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohammedrayaan1@gmail.com)](mailto:mohammedrayaan1@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/mr_riyaan135)](https://twitter.com/mr_riyaan135)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/itz_me_rayaan._/)](https://www.instagram.com/itz_me_rayaan._/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/itzrayaan123/)](https://www.facebook.com/itzrayaan123/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@mohammedriyaan1)](https://medium.com/@mohammedriyaan1)
 
 
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+
+### A Little About Me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm an **Undergrad Student🎓 [@LIET Hyderabad](https://www.lords.ac.in)** pursuing IT. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 
