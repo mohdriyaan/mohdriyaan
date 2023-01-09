@@ -11,7 +11,7 @@ I'm an **Undergrad Student🎓 [@LIET Hyderabad](https://www.lords.ac.in)** purs
 
 ### 📬 Find Me At 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/mohdriyaan/)](https://github.com/mohdriyaan/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-riyaan/)](https://www.linkedin.com/in/mohammed-riyaan)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-riyaan-459235180/)](https://www.linkedin.com/in/mohammed-riyaan-459235180/)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/mohammedrayaan1)](https://www.hackerrank.com/mohammedrayaan1)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohammedrayaan1@gmail.com)](mailto:mohammedrayaan1@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/mr_riyaan135)](https://twitter.com/mr_riyaan135)
