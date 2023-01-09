@@ -48,7 +48,18 @@ I'm an **Undergrad Student🎓 [@LIET Hyderabad](https://www.lords.ac.in)** purs
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg?s=200&v=4"></code>
-<hr></hr>                                                                                   
+<hr></hr>  
+
+### 📕 Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [JavaScript Is The Most Dynamic And Versatile Computer Language.](https://medium.com/@mohammedriyaan1/javascript-is-the-most-dynamic-and-versatile-computer-language-1cc432833be8?source=rss-590479a23273------2)
+- [Importance Of Github](https://medium.com/@mohammedriyaan1/importance-of-github-f13b712e2913?source=rss-590479a23273------2)
+- [About Linux…](https://medium.com/@mohammedriyaan1/about-linux-5ddd83fe7b5f?source=rss-590479a23273------2)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://medium.com/@mohammedriyaan1)
+<hr></hr>
+
 
 ### 🚀 Github Stats
 <p align="center">
