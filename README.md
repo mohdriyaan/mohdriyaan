@@ -1,6 +1,13 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Hi!, I am <a href="https://github.com/mohdriyaan">Riyaan</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Hi!, I am <a href="https://github.com/mohdriyaan">Riyaan</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
+</br></br> A Passionate Web Developer 👨‍💻
+</h1>
 
-### 📬 Find me at
+<p align="left"> </br><img src="https://komarev.com/ghpvc/?username=mohdriyaan&label=Profile%20views&color=0e75b6&style=flat" alt="mohdriyaan" /> </p>
+
+## A Little About Me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm an **Undergrad Student🎓 [@LIET Hyderabad](https://www.lords.ac.in)** pursuing IT. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. 
+
+### 📬 Find Me At 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/mohdriyaan/)](https://github.com/mohdriyaan/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-riyaan/)](https://www.linkedin.com/in/mohammed-riyaan)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/mohammedrayaan1)](https://www.hackerrank.com/mohammedrayaan1)
@@ -8,14 +15,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/mr_riyaan135)](https://twitter.com/mr_riyaan135)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/itz_me_rayaan._/)](https://www.instagram.com/itz_me_rayaan._/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/itzrayaan123/)](https://www.facebook.com/itzrayaan123/)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@mohammedriyaan1)](https://medium.com/@mohammedriyaan1)
-
-
-
-
-### A Little About Me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@LIET Hyderabad](https://www.lords.ac.in)** pursuing IT. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
-
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@mohammedriyaan1)](https://medium.com/@mohammedriyaan1)<br></br>
 
 
 
@@ -31,7 +31,7 @@ I'm an **Undergrad Student🎓 [@LIET Hyderabad](https://www.lords.ac.in)** purs
 - 💬 Ask me about Python, Linux, Github, JavaScript
 
 - 🎉 Fun-Fact: I ❤️ Cosmology 🌠 And Programming 👨‍💻 and watch a lot of Sci-Fi And Action Movies🎬
-
+<hr></hr>
   
 ### 🖥️ My DevSetup
 <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
@@ -48,7 +48,7 @@ I'm an **Undergrad Student🎓 [@LIET Hyderabad](https://www.lords.ac.in)** purs
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg?s=200&v=4"></code>
-                                                                                     
+<hr></hr>                                                                                   
 
 ### 🚀 Github Stats
 <p align="center">
@@ -57,10 +57,7 @@ I'm an **Undergrad Student🎓 [@LIET Hyderabad](https://www.lords.ac.in)** purs
 <p align="center">
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mohdriyaan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdriyaan&&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
 </p>
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
-
+<hr></hr>
 
 
 
