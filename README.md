@@ -2,6 +2,8 @@
 </br></br> A Passionate Web Developer 👨‍💻
 </h1>
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
 <p align="left"> </br><img src="https://komarev.com/ghpvc/?username=mohdriyaan&label=Profile%20views&color=0e75b6&style=flat" alt="mohdriyaan" /> </p>
 
 ## A Little About Me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
