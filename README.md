@@ -1,13 +1,13 @@
-<h1 align="center> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Hi!, I am <a href="https://github.com/mohdriyaan">Hemanth</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
-</h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Hi!, I am <a href="https://github.com/mohdriyaan">Riyaan</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/mohdriyaan/)](https://github.com/mohdriyaan/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-riyaan/)](https://www.linkedin.com/in/mohammed-riyaan)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/mohammedrayaan1)](https://www.hackerrank.com/mohammedrayaan1)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11534375/hemanth-kollipara)](https://stackoverflow.com/users/11534375/hemanth-kollipara)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohammedrayaan1@gmail.com)](mailto:mohammedrayaan1@gmail.com)
-[![Twitter Badge](https://img.shields.io/twitter/follow/mr_riyaan135?style=flat square&logo=Twitter&logoColor=white&link=https://twitter.com/mr_riyaan135)](https://twitter.com/mr_riyaan135)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/mr_riyaan135)](https://twitter.com/mr_riyaan135)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/itz_me_rayaan._/)](https://www.instagram.com/itz_me_rayaan._/)
+
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
@@ -20,10 +20,13 @@ I'm an **Undergrad Student🎓 [@LIET Hyderabad](https://www.lords.ac.in)** purs
 
 - 🌱 I’m currently learning Full Stack Web Development
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+
 - 📝 I write technical blogs and articles on <a href="https://medium.com/@mohammedriyaan1">Medium</a> and <a href="https://www.linkedin.com/in/mohammed-riyaan-459235180/">LinkedIn</a>
+
 - 👨‍💻 All of my projects are available at <a href="https://github.com/mohdriyaan/web_dev/tree/main/projects">Github</a>
+
 - 💬 Ask me about Python, Linux, Github, JavaScript
-- 📙 Check out my [Resume](https://www.linkedin.com/in/mohammed-riyaan/)
+
 - 🎉 Fun-Fact: I ❤️ Cosmology 🌠 And Programming 👨‍💻 and watch a lot of Sci-Fi And Action Movies🎬
 
   
@@ -41,29 +44,20 @@ I'm an **Undergrad Student🎓 [@LIET Hyderabad](https://www.lords.ac.in)** purs
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg?s=200&v=4"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg?s=200&v=4"></code>
                                                                                      
 
-### 🚀 Quick Stats
+### 🚀 Github Stats
 <p align="center">
-<img width="450" align="center" src="https://github-readme-stats-mohdriyaan.vercel.app/api?username=mohdriyaan&show_icons=true&line_height=21&theme=react" alt="mohdriyaan's Github Stats" /> 
-<img align="center" src="https://github-readme-stats-mohdriyaan.vercel.app/api/top-langs?username=mohdriyaan&show_icons=true&locale=en&layout=compact&theme=react" alt="mohdriyaan" />
-</p>  
+<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdriyaan&hide_border=true&theme=nightowl" />
+</p>
+<p align="center">
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=mohdriyaan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdriyaan&&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+</p>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
 
-
-<details>
-<summary> 💥 Working on </summary>
-<br>
-<p align="center">
-<a href="https://github.com/Defcon27/Machine-Learning">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Defcon27&repo=Machine-Learning&show_owner=true&theme=react" />
-</a>&ensp;
-<a href="https://github.com/Defcon27/Deep-Learning">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Defcon27&repo=Deep-Learning&show_owner=true&theme=react" />
-</a>
-</p>
-</details>
 
 
 
