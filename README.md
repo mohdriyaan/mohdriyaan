@@ -68,7 +68,7 @@ I'm an **Undergrad Student🎓 [@LIET Hyderabad](https://www.lords.ac.in)** purs
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdriyaan&hide_border=true&theme=nightowl" />
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdriyaan&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="mohdriyaan" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=mohdriyaan&show_icons=true&locale=en&theme=nightowl" alt="mohdriyaan" /></p>
+<p &nbsp;><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdriyaan&show_icons=true&locale=en&theme=nightowl" alt="mohdriyaan" /></p>
 <hr></hr>
 
 
