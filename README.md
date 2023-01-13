@@ -65,10 +65,10 @@ I'm an **Undergrad Student🎓 [@LIET Hyderabad](https://www.lords.ac.in)** purs
 
 ### 🚀 Github Stats
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdriyaan&hide_border=true&theme=nightowl" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdriyaan&hide_border=true&theme=nightowl" height="150px" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdriyaan&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="mohdriyaan" /></p>
-<p &nbsp;><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdriyaan&show_icons=true&locale=en&theme=nightowl" alt="mohdriyaan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdriyaan&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="mohdriyaan" height="150px" /></p>
+<p &nbsp;><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdriyaan&show_icons=true&locale=en&theme=nightowl" alt="mohdriyaan" height="150px" /></p>
 <hr></hr>
 
 
