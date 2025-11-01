@@ -17,8 +17,8 @@
 I'm an **IT Undergrad at [LIET Hyderabad](https://www.lords.ac.in)** and a **Tech Enthusiast 💻** passionate about building digital experiences that make an impact.  
 I love exploring new technologies, contributing to open source, and developing full-stack web applications that solve real-world problems.
 
-<div align="right">
-  <img src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" width="380" height="250" alt="Coding GIF" style="border-radius:10px; margin-top:10px;" />
+<div align="center">
+  <img src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" alt="Coding GIF" width="60%" style="border-radius:10px; max-width:450px; min-width:250px; margin-top:10px; padding-bottom: 20px" />
 </div>
 
 
